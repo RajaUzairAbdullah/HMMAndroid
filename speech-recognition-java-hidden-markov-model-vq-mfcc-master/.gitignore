@@ -1,0 +1,8 @@
+/SpeechRecognitionHMM/.classpath
+/SpeechRecognitionHMM/.project
+/bin/
+/target/
+.idea
+*.iml
+.project
+.classpath
